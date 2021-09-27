@@ -1,0 +1,2 @@
+rootProject.name = "Bem_te_vi"
+include ':app'
